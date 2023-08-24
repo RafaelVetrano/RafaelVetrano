@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/rafael-vetrano-37a833232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 ### SOBRE
- Sou estudante da [Trybe](https://www.betrybe.com) moro em Ribeirão preto interior de São Paulo. Ao terminar o ensino médio decidi seguir o caminho da programão que sempre tive muito contato e interesse quando pequeno e logo ingressei Trybe onde além de programação backend e frontend aprendi a trabalhar em equipe com métodologias ágeis e a desenvolver minhas soft skills.
+ Sou estudante de engenharia da computação na UNAERP. moro em Ribeirão preto interior de São Paulo. Ao terminar o ensino médio decidi seguir o caminho da programão que sempre tive muito contato e interesse quando pequeno e logo ingressei Trybe onde além de programação backend e frontend aprendi a trabalhar em equipe com métodologias ágeis e a desenvolver minhas soft skills, ao completar o curso me dediquei aos estudos para entrar na faculdade de engenharia da computação.
 
 <br />
 
