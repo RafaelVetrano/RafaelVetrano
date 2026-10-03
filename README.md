@@ -5,7 +5,8 @@
 
 ### Sobre
 
-Sou estudante de Engenharia da Computação na UNAERP e moro em Ribeirão Preto (SP). Programação sempre me interessou, e depois do ensino médio entrei na Trybe, onde aprendi desenvolvimento front-end e back-end, metodologias ágeis e trabalho em equipe.
+Estou no 7º semestre de Engenharia da Computação na UNAERP e moro em Ribeirão Preto (SP). Programação sempre me interessou, e depois do ensino médio fiz o curso de Desenvolvimento Web Full Stack da Trybe, onde aprendi front-end e back-end, metodologias ágeis e trabalho em equipe.
+
 
 Hoje sou coautor do **[PiBarber](https://pibarber.app)**, uma plataforma de agendamento e gestão para barbearias que está no ar. O cliente agenda pelo celular, sem instalar nada, e o dono acompanha agenda, equipe, caixa e relatórios num painel só. O projeto usa Next.js, TypeScript, Supabase (PostgreSQL) e testes end-to-end com Playwright.
 
